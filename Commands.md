@@ -4,6 +4,7 @@
  - ls - list directory content
  - cat -  provide content or type and size information for repository objects
  - rm - delete something
+ - mkdir - create directory
 
 ## Git commands
 
