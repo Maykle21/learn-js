@@ -12,3 +12,6 @@
  - git add - add all files to staging area
  - git status - get git status 
  - git commit -m "commit message" - create commit git diff
+ 
+ ## VS Code
+  - Shift + Alt + F - format code
